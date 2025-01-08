@@ -13,7 +13,7 @@
 
 ### It's time!
 
-You are going to build a web-application _from scratch_. This project is **due 2:30 PM on Tuesday, January 21st** - approx. 10 class days x 75 mins = 13 hrs of class time, plus weekends and evenings (I can't stop you, but you will not be allowed to commit at home or bring naything in). **That due date _can not be adjusted_.**
+You are going to build a web-application _from scratch_. This project is **due 2:30 PM on Tuesday, January 21st** - approx. 10 class days x 75 mins = 13 hrs of class time, plus weekends and evenings (I can't stop you, but you will not be allowed to commit at home or bring anything in). **That due date _can not be adjusted_.**
 
 ### Table of Contents
 
